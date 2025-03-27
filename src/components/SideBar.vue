@@ -88,6 +88,7 @@ export default {
                     border: solid black;
                     border-width: 0 3px 3px 0;
                     transition: transform .5s;
+                    margin-right: 10px;
                 }
                 .up {
                     transform: rotate(-135deg);
