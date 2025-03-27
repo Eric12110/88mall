@@ -116,7 +116,7 @@ const routes = [
   {
     path: '/forgetPwd',
     components: {
-      default: () => import('../views/ForgetPwd.vue'),
+      default: () => import('../views/forgetPwd.vue'),
       header: Header,
       navbar: Navbar,
       footer: Footer,
