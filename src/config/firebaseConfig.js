@@ -5,7 +5,6 @@ import { getFirestore } from "firebase/firestore";
 import { getStorage } from "firebase/storage";
 
 
-
 const firebaseConfig = {
   apiKey: "AIzaSyBFt1VcF7zg_mmpCeXD2zgkpYLKp4xdAZg",
   authDomain: "iann-shop.firebaseapp.com",
@@ -16,7 +15,6 @@ const firebaseConfig = {
   appId: "1:1075305381504:web:a5662ea2d591dc45eeb065",
   measurementId: "G-D9V6B6NXGV"
 };
-
 
 const app = initializeApp(firebaseConfig);
 
